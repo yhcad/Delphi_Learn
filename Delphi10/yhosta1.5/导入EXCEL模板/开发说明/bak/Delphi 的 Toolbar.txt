@@ -1,0 +1,31 @@
+Delphi 的 Toolbar
+
+这是个很早就有的组件，在Winiso 界面风格上有相关应用，用它可以方便的构成菜单。
+在Toolbar内可以显示图片和文字，图片的放置方式需要images与一个imageList组件想关联。
+
+其中有几个概念：
+
+imageList 图片如何控制大小？ 其实imageList中的图片是可以整体控制大小的，默认是height×weight = 16×16 改成想要的尺寸就可以了
+imageList 对于背景透明的图片默认是背景是黑色的！ 这里要控制ImageList 的ColorDepth属性，不要使用与设备相同，采用 cd32Bit。
+更改了Toolbar 相关的 toolButton的Caption属性没有文字显示! 这里要打开Toolbar 里面showCaption属性！
+ 
+
+这样设置之后，就可以了， Toolbar 就是个大家经常看到的工具菜单了。
+
+http://www.cnblogs.com/hieroly/archive/2012/02/28/2371434.html
+
+
+Delphi 的   imageList (win32)
+如何把选中的图标显示到窗体上？
+1、先双击imagelist控件，add进去几个图标。
+2、接着声明一个位图对象img : Tbitmap。
+3、创建img := TBitmap.Create。
+
+4、然后用ImageList.GetBitmap(0, img)引用第一个图标，把图象赋值给img。
+用ImageList.GetBitmap(1, img)引用第二个图标，把图象赋值给img。以此类推。
+
+
+这个组件是用于保存多张图片的，然后在其他可以贴图的组件属性里选择ImageList，图片属性可以选择ImageList里提供的顺序号。
+比如菜单组件、工具栏组件、Actionlist组件都可以连接ImageList使用的。
+
+

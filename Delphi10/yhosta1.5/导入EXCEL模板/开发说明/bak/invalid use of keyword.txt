@@ -1,0 +1,15 @@
+invalid use of keyword
+token: from stunedt
+Order
+Line Number:1
+
+Table1.Active:=False;
+Table1.Active:=True;
+
+
+
+设置断点跟踪查询，重点在sql语句
+
+Query1.SQL.Add('Order by'+ord1+ ''+ord2);
+showmessage(sql.text);
+  Query1.Open;
