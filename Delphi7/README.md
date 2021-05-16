@@ -1,10 +1,15 @@
 #Delphi 程序设计(中央电大)视频教程 
+
+
 ##---清华大学  王行言教授 主讲<br/><br/>
+
+
 内容简介<br/>
    该精品课程的主讲教师是清华大学王行言教授。Delphi是一种面向对象的、可视化的编程工具，它使用Object Pascal作为核心的编程语言，IDE的英文全称为“Integrated Development Environment”，中文意思是“集成开发环境”。是用于提供程序开发环境的应用程序，一般包括代码编辑器、编译器、调试器和图形用户界面工具。Delphi就是一个这样的开发环境。这套系列精品课程的版权归中央广播电视大学所有，仅供个人学习使用。在此特别衷心感谢王行言教授和中央电大。<br/>
 Delphi程序设计由[中央电大](http://zongbu.ouchn.cn/course/view.php?id=125&section=13)免费提供在线观看下载，如果您觉得此视频教程对您有帮助，请把本视频链接发给您的亲朋好友，让更多的人能得到帮助！<br/>
 ## 视频：[第一视频教程网](http://video.1kejian.com/computer/programming/876/)<br/>
 ## 教材：[Delphi程序设计 (王行言) pdf扫描版 132M](https://www.jb51.net/books/166154.html)<br/>
+
 
 ##视频目录<br/>
 第一讲 面向对象技术概述<br/>
