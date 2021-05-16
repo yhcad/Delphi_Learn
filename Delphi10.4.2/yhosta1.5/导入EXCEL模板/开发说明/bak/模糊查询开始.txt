@@ -1,0 +1,63 @@
+sql="select * from "&tbl&"yhks_tmp where 1=1 "
+		if kh<>"" then sql=sql&" and kh like '%"&kh&"%'"
+		if sfzh<>"" then sql=sql&" and sfzh like '%"&sfzh&"%'"
+		if ksxm<>"" then sql=sql&" and ksxm like '%"&ksxm&"%'"
+		if zygz<>"" then sql=sql&" and zygz like '%"&zygz&"%'"
+		if jdjb<>"" then sql=sql&" and jdjb like '%"&jdjb&"%'"
+		
+		if session("flag")="培训学校" then
+			sql=sql&" and bmdw='"&session("df_school")&"'"
+		else
+			if bmdw<>"" then sql=sql&" and bmdw like '%"&bmdw&"%'"
+		end if
+		 sql=sql&" order by id asc"
+
+
+
+
+
+
+		sql="select * from "&tbl&"yhlszs where 1=1 "        '模糊查询开始
+		if sfzh<>"" then sql=sql&" and sfzh like '%"&sfzh&"%'"      '身份证号模糊查询
+		if ksxm<>"" then sql=sql&" and ksxm like '%"&ksxm&"%'"	  '考生姓名模糊查询
+		if zsh<>"" then sql=sql&" and zsh like '%"&zsh&"%'"         '证书号模糊查询
+		if zygz<>"" then sql=sql&" and zygz like '%"&zygz&"%'"      '职业模糊查询
+		if jdjb<>"" then sql=sql&" and jdjb like '%"&jdjb&"%'"		'鉴定级别模糊查询
+		if nd<>""   then sql=sql&" and nd like '%"&nd&"%'"          '年度模糊查询
+		if s_bzrq<>"" and e_bzrq<>"" then sql=sql&" and  bzrq  between  '"&s_bzrq&"' and  '"&e_bzrq&"'"
+		if session("flag")="培训学校" then   sql=sql&" and bmdw='"&session("df_school")&"'"
+			else
+			if bmdw<>"" then sql=sql&" and bmdw like '%"&bmdw&"%'"
+			end if
+		sql=sql&" order by id desc"
+		
+
+
+
+<%
+ '申报鉴定名单临时表T_yhks_tmp表以下是查询身份证号、职业、鉴定级别重复查询
+ exec="SELECT kh,sfzh,ksxm,zygz,jdjb,xb,csrq,bmdw,lxdh  FROM "&tbl&"yhks_tmp a INNER JOIN  "&tbl&"yhks_tmp b ON a.sfzh = b.sfzh AND a.zygz = b.zygz  a.jddj=b.jddj"
+ Set rs=Server.Createobject("adodb.recordset")
+ rs.Open exec,Conn,1,1
+ if not rs.eof or not rs.bof then 
+ i=1  
+%>
+
+
+
+Select * from T_yhlszs where 1=1  AND  sfzh like'[Edit1.text]'  AND ksxm like '[Edit2.text]'
+Select * from T_yhlszs where 1=1  AND  sfzh like ' :sfzh '   AND ksxm like ':sfzh  '
+
+
+
+==============================
+
+select * from  yhks_tmp where 1=1  and kh=like %+kh and  sfzh= like %+sfzh
+
+select * from book where 1=1
+
+如果查询语句为空则显示为select * from book where
+
+1=1是为了避免其他查询为空时,这条查询语句报错.
+
+LIKE

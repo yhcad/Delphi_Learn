@@ -1,0 +1,1104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="重复申报鉴定名单2015-3-11.files/filelist.xml">
+<link rel=Edit-Time-Data href="重复申报鉴定名单2015-3-11.files/editdata.mso">
+<link rel=OLE-Object-Data href="重复申报鉴定名单2015-3-11.files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>YHCAD</o:LastAuthor>
+  <o:LastSaved>2015-03-11T03:34:04Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:常规;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	text-align:left;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	text-align:center;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	mso-number-format:"\@";
+	text-align:left;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	mso-number-format:"Short Date";
+	text-align:center;
+	border:.5pt solid black;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	text-align:center;
+	border:.5pt solid black;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>重复申报鉴定名单2015-3-11</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>11145</x:WindowHeight>
+  <x:WindowWidth>21435</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>75</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1348 style='border-collapse:
+ collapse;table-layout:fixed;width:1010pt'>
+ <col width=64 style='mso-width-source:userset;mso-width-alt:2048;width:48pt'>
+ <col width=241 style='mso-width-source:userset;mso-width-alt:7712;width:181pt'>
+ <col width=111 span=2 style='mso-width-source:userset;mso-width-alt:3552;
+ width:83pt'>
+ <col width=64 style='mso-width-source:userset;mso-width-alt:2048;width:48pt'>
+ <col width=216 style='mso-width-source:userset;mso-width-alt:6912;width:162pt'>
+ <col width=111 span=2 style='mso-width-source:userset;mso-width-alt:3552;
+ width:83pt'>
+ <col width=123 style='mso-width-source:userset;mso-width-alt:3936;width:92pt'>
+ <col width=196 style='mso-width-source:userset;mso-width-alt:6272;width:147pt'>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl24 width=64 style='height:14.25pt;width:48pt'>考号</td>
+  <td class=xl24 width=241 style='border-left:none;width:181pt'>身份证号</td>
+  <td class=xl24 width=111 style='border-left:none;width:83pt'>考生姓名</td>
+  <td class=xl24 width=111 style='border-left:none;width:83pt'>职业</td>
+  <td class=xl24 width=64 style='border-left:none;width:48pt'>等级</td>
+  <td class=xl24 width=216 style='border-left:none;width:162pt'>证书号</td>
+  <td class=xl24 width=111 style='border-left:none;width:83pt'>报名单位</td>
+  <td class=xl24 width=111 style='border-left:none;width:83pt'>考试批次</td>
+  <td class=xl24 width=123 style='border-left:none;width:92pt'>颁证日期</td>
+  <td class=xl24 width=196 style='border-left:none;width:147pt'>备注</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>1</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>532123198505082817</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>龙兴万</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300092</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>10</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>342427197803046613</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>孙大林</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300101</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>11</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>362323197610182814</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>顾贞祥</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300102</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>12</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>511025198701074059</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>李志君</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300103</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>13</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>341225198704192017</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>黄辉</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300104</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>14</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>422802198003243415</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>蒲道远</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300107</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>15</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>510922197307210790</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>李永胜</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300108</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>16</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>51102519851123607x</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>朱俊</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300109</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>17</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>52262719871108163x</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>杨国洵</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300110</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>18</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>511025198611160236</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>陈强</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300111</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>19</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>532126198701130715</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>何应波</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300112</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>2</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>51023119720913661X</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>祝忠林</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300093</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>20</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>51102519861012775x</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>林锋</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300113</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>21</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>522401198709241230</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>陈磊</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300823</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>开拓数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100069</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40778">2011-8-23</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>22</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>340825199002102810</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>胡恭富</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>4</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000400323</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>23</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>511011198704252932</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>陈显伟</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300119</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>24</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>511025199101121418</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>张黄铎</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>4</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000400324</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>25</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>500235198910157652</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>乔光华</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>4</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000400325</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>26</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>331021199212280658</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>熊木祖</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>4</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000400326</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>27</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>532123198907022833</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>姚宗林</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>4</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000400327</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>28</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>522501199203117339</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>柴航航</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>4</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000400328</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>29</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>331021198909101053</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>黄锋</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>4</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000400329</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>3</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>510503198608074554</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>代继波</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300094</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>30</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>511025199004130873</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>蔡良彬</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>4</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000400330</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>31</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>511023198905038436</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>陈文武</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>4</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000400334</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>32</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>332627197511241053</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>陈爱富</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300042</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>33</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>513521197210116372</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>陈一林</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300043</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>34</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>362203198303150437</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>周华钢</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300045</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>35</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>513021197610267658</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>王兴洪</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300046</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>36</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>33262719790910127x</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>郑其亮</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300048</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>37</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>522131198412044615</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>任学员</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300049</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>38</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>342128198101413871</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>陈士夫</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300051</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>39</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>510902198511110454</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>翟勇军</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300052</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>4</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>341225198408092011</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>张玉杰</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300095</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>40</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>51152919800226231X</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>龚肖</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300053</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>41</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>420624197312302918</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>木昌年</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300054</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>43</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>450322197402076033</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>苏碧波</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300056</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>44</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>511126197408017036</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>高元海</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300057</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>45</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>522122197701080410</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>高碧忠</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300058</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>46</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>362102197608180032</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>赖长洪</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300059</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>47</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>522724197602040232</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>罗华江</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300060</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>48</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>362502198510058211</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>张文辉</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300061</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>49</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>341003198505052215</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>程祥</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300062</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>5</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>450122197612256015</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>黄校辉</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300096</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>50</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>532101197601033836</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>何官平</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300063</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>51</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>52250119871007733X</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>张文学</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300064</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>52</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>512535196402025611</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>李昌军</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300065</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>54</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>513021721017627</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>周忠善</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300067</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>56</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>532122197210162448</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>杨志春</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300069</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>57</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>51102519720510113X</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>李杰</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300070</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>58</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>32072219820305543X</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>朱小二</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000300071</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>59</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>511126199405105451</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>徐达豪</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>5</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000500137</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>6</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>331021198603021253</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>陈清</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300097</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>60</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>532124199306211314</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>张建</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>5</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1111960000500139</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1100005</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="40620">2011-3-18</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>7</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>522725198107158138</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>蒋永中</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300098</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>8</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>500235198706274704</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>毛红平</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300099</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl25 width=64 style='height:14.25pt;border-top:none;
+  width:48pt' x:num>9</td>
+  <td class=xl26 width=241 style='border-top:none;border-left:none;width:181pt'>511011198702105971</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>高华</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>数控车工</td>
+  <td class=xl25 width=64 style='border-top:none;border-left:none;width:48pt'
+  x:num>3</td>
+  <td class=xl26 width=216 style='border-top:none;border-left:none;width:162pt'>1211960000300100</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'>辉煌数控</td>
+  <td class=xl25 width=111 style='border-top:none;border-left:none;width:83pt'
+  x:num>1200009</td>
+  <td class=xl27 width=123 style='border-top:none;border-left:none;width:92pt'
+  x:num="41032">2012-5-3</td>
+  <td class=xl28 width=196 style='border-top:none;border-left:none;width:147pt'>重复！已有证书</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=64 style='width:48pt'></td>
+  <td width=241 style='width:181pt'></td>
+  <td width=111 style='width:83pt'></td>
+  <td width=111 style='width:83pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=216 style='width:162pt'></td>
+  <td width=111 style='width:83pt'></td>
+  <td width=111 style='width:83pt'></td>
+  <td width=123 style='width:92pt'></td>
+  <td width=196 style='width:147pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

@@ -1,0 +1,77 @@
+
+设置环境：Delphi10.4.2+DevExpress VCL20.2.4+XLSReadWriteII 6.00.68 
+添加一个单元
+
+UMain.pas  主界面（主窗体）
+ Name  := FrmMain
+Caption := 职业资格证书查询系统 v1.50
+添加的组件
+dxSkinController1 {皮肤控件 dxSkinOffice2007Blue}
+dxBarManager1 {添加工具栏控件} 
+   用dxBarManager生成工具栏和菜单
+     dxBarManager1.ImageOptions.LargeImages :=ImageList1
+     
+ImageList1 {图片集控件}
+DBGrid1  数据网格控件
+Timer1  时钟控件
+StatusBar1 状态栏控件
+     特性值StatusBar1.Panels分为四区
+
+OpenDialog1 打开文件控件
+SaveDialog1  保存文件控件
+XLSReadWriteII51{EXCEL导入导出控件}
+ActionList1{多个Action统一管理的构件}
+
+    ActDelete: TAction;{清空数据}
+    ActImportExcel: TAction;{导入Excel}
+    ActDisplay: TAction;{显示数据}
+    ActRepeat: TAction;{重复证书}
+    ActNewsRepeat: TAction;{近期查重}
+    ActSave: TAction;{保存数据}
+    ActExportExcel: TAction;{导出Excel}
+    ActClose: TAction; {退出系统}
+    ActOpenAbout: TAction;{打开关于窗体}
+------------
+添加一个数据模块
+
+Udm.pas  数据模块
+Name  :=dm
+添加组件 
+FDManager1、FDConnection1、FDQuery1、
+FDGUIxWaitCursor1、
+FDPhysMSSQLDriverLink1、
+DataSource1
+SQL := SELECT * FROM dbo.T_yhks_tmp
+---------------------------
+菜单
+系统管理-证书查询-专项能力证书-帮助
+系统管理
+      历史证书管理
+      专项证书管理
+      近期申报鉴定
+      退出系统
+------------------
+证书查询
+      清空数据
+      导入Excel
+      显示数据
+      重复证书
+      近期查重
+      保存数据
+      导出Excel
+---------------------
+专项能力证书
+     专项职业能力证书
+
+帮助
+     用户手册
+     关于
+
+
+
+StatusBar1控件先分四区，四区的内容如下所示。
+StatusBar1.Panels[0].Text     :='  欢迎使用【职业资格证书查询系统】';
+StatusBar1.Panels[0].Width  := 220;
+StatusBar1.Panels[1].Text     :=' 程序开发：陈定灿';
+StatusBar1.Panels[1].Width  := 120;
+StatusBar1.Panels[3].Text := '当前时间：'+ DateTimeToStr(Now); {在状态栏3上显示当前时间}

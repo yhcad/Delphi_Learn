@@ -1,0 +1,279 @@
+ADOConnection1——ADOQuery1——DataSource1——DBGrid1——（显示查询内容）
+
+ADOConnection2——ADOQuery2——打开对话框OpenDialog1——连接Excel文件
+
+
+如何在SqlServer2000中设数据表ID字段为自增
+
+id  int primary key identity
+
+找到表选择设计表选择ID列把
+标识 改为是
+标识种子1
+表示增量1  
+
+
+
+
+<%
+ '申报鉴定名单临时表T_yhks表与证书表T_yhlszs两表联查，以下是查询身份证号、职业、鉴定级别与T_yhlszs表相同（重复）的记录
+ exec="Select  a.kh as 考号,a.sfzh as 身份证号,a.ksxm as 考生姓名,a.zygz as 职业,a.jdjb as 鉴定级别, b.zsh as 证书号,b.bmdw as 报名单位,b.kspc as 考试批次, b.bzrq as 颁证日期 From  T_yhks_tmp a,T_yhlszs b   Where a.sfzh = b.sfzh   And  a.zygz = b.zygz    And a.jdjb = b.jdjb"
+ exec=exec&" order by kh asc"
+ Set rs=Server.Createobject("adodb.recordset")
+ rs.Open exec,Conn,1,1
+ if not rs.eof or not rs.bof then 
+ i=1  
+%>
+
+
+        <td align="center">身份证号</td>
+        <td align="center">考生姓名</td>
+        <td align="center">职业</td>
+		<td align="center">鉴定级别</td>
+		<td align="center">证书号</td>
+        <td align="center">报名单位</td>
+        <td align="center">考试批次</td>
+        <td align="center">颁证日期</td>
+        <td align="center">备注</td>
+        </tr>
+
+
+
+
+①清空名单
+qk_Button4Click(Sender);
+
+//②导入Excel名单
+dl_Button1Click(Sender);
+//③显示名单
+xs_Button2Click(Sender);
+//④证书重复查询
+cf_Button3Click(Sender);
+
+
+
+zxnl_Form2.ShowModal;
+
+ShowFormModal(Self, TfrmAbout);
+frmAbout
+
+
+
+ ShowFormModal(Self, TfrmLog);
+
+
+T_yhlszs 职业资格历史证书表   T_yhlszs_tmp职业资格临时导入整理表   T_yhlszs_zxnl  专项能力表
+
+T_yhks 鉴定申报表汇总     T_yhks_tmp鉴定申报表临时导入整理表
+
+
+
+Select  a.kh, a.sfzh,  a.ksxm, a.zygz, a.jdjb, a.xb, a.csrq, a.bmdw,  a.whcd, b.zsh,b.bmdw,b.kspc, b.bzrq From  T_yhks_tmp a,T_yhlszs b   Where a.sfzh = b.sfzh   And  a.zygz = b.zygz  And a.jdjb = b.jdjb   order by kh
+
+
+
+
+
+
+
+
+
+
+
+
+连接字符串
+implementation
+Var
+   MyInifile: TInifile;
+
+{$R *.dfm}
+
+procedure TForm1.FormCreate(Sender: TObject);
+Var
+   Filename,server,database,user,password: String;
+  
+  
+Begin
+      //配置文件config.ini存储在应用程序当前目录中
+    Filename:= ExtractFilePath(paramstr(0))+'config.ini';
+    MyInifile:= TInifile.Create(Filename);
+     //从配置文件中读取数据库连接参数
+    server := MyInifile.ReadString('DBConn','Data Source','');
+    database :=  MyInifile.ReadString('DBConn','Initial Catalog','');
+    user :=    MyInifile.ReadString('DBConn','User ID','');
+    password := MyInifile.ReadString('DBConn','Password','');
+    MyInifile.Free;
+    
+    end;
+
+
+    --------------------
+ result := 'Provider=SQLOLEDB.1;Password=' + password + ';Persist Security Info=True;User ID=' + user + ';Initial Catalog=' + database + ';Data Source=' + server; 
+
+
+   ADOConnection1.ConnectionString := 'Provider=SQLOLEDB.1;Persist Security Info=False;User ID=' + user + ';Initial Catalog=' + database + ';Data Source=' + server +';Tag with column collation when possible=True;';
+
+
+Provider=SQLOLEDB.1;Password=123;Persist Security Info=True;User ID=sa;Data Source=.
+
+http://www.cloud.com.cn/
+
+
+
+
+ 产品类型： 　　 bigaspmssql  
+状态： 　　 正常 
+服务器IP： 　　114.80.252.21 
+开通时间： 　　2009年3月9日 
+到期时间： 　　2016年3月9日 
+数据库软件类型： 　　SQL2000 
+数据库名： 　　a0309214701 
+数据库用户名： 　　a0309214701 
+数据库密码： 　　56254141 
+连接端口： 　　 1433 
+连接字符串：   
+"provider=sqloledb;data source=114.80.252.21,1433;User ID=a0309214701;pwd=56254141;Initial Catalog=a0309214701" 
+  
+ 
+数据库使用情况：   
+已用数据库空间：102.258M　已用日志空间：95.992M　　库上限：1024 M　日志上限：1024 M  
+  
+--------------------
+判断Sql Server是否启动! 
+要Uses winsvc 
+
+
+var 
+lpServiceArgVectors :PChar; 
+hscmanager,hService :SC_HANDLE; 
+returnstatus :TServiceStatus; 
+html :String; 
+exeresult :Boolean; 
+begin 
+Result :=False; 
+lpServiceArgVectors:=nil; 
+
+//打开service control manager database 
+hscmanager:=OpenSCManager(nil,nil,SC_MANAGER_ENUMERATE_SERVICE); 
+
+//打开该Service 
+hService:=OpenService(hscmanager,'MSSQLSERVER',SERVICE_ALL_ACCESS); 
+if(hService<0) then 
+begin 
+StatusBar1.Panels[0].Text :='无法访问MSSQLSERVER服务'; 
+Result :=False; 
+exit; 
+end; 
+
+//查看该Service的状态 
+try 
+QueryServiceStatus(hService,returnstatus) ; 
+except 
+StatusBar1.Panels[0].Text :='查看MSSQLSERVER服务失败'; 
+end; 
+
+case returnstatus.dwCurrentState of 
+1: StatusBar1.Panels[0].Text :='MSSQLSERVER 已经停止'; 
+2: StatusBar1.Panels[0].text :='MSSQLSERVER 正在启动'; 
+3: StatusBar1.Panels[0].text :='MSSQLSERVER 正在停止'; 
+4: StatusBar1.Panels[0].text :='MSSQLSERVER 正在运行'; 
+5: StatusBar1.Panels[0].text :='MSSQLSERVER 继续运行中'; 
+6: StatusBar1.Panels[0].text :='MSSQLSERVER 正在暂停'; 
+7: StatusBar1.Panels[0].text :='MSSQLSERVER 已经暂停'; 
+end; 
+//如果该Service已停止则启动它 
+if returnstatus.dwCurrentState=SERVICE_STOPPED then 
+begin 
+StatusBar1.Panels[1].text :='正在启动MSSQLSERVER服务...'; 
+try 
+StartService(hService,0,lpServiceArgVectors) ; 
+StatusBar1.Panels[1].text :='MSSQLSERVER 启动成功'; 
+StatusBar1.Panels[0].text :='MSSQLSERVER 正在运行'; 
+except 
+StatusBar1.Panels[1].text :='MSSQLSERVER 启动失败'; 
+StatusBar1.Panels[0].text :='MSSQLSERVER 已经停止'; 
+end; 
+end ; 
+
+//关闭该Service 
+try 
+CloseServiceHandle(hService); 
+except 
+ShowMessage('关闭ServiceHandle时发生错误'); 
+end; 
+
+end;   
+    
+
+
+============================
+Checked:=true;
+
+
+delphi 菜单 调用 按钮按下的功能
+将一个按钮的事件指向另一个按钮事件,这样最好的,在代码中并且能区别是哪个按钮调用的,TButton(Sender).Caption
+cf_Button3Click(Sender: TObject).Caption
+
+delphi 菜单的事件指向一个按钮事件
+delphi 菜单的事件指向一个按钮事件
+cf_Button3Click(Sender);
+
+
+
+
+
+
+
+在对象事件管理时，可设置 将按钮的onchange对应的函数设置弹出菜单的点击事件即可。也可以在程序中设置比如在窗口的创建事件中赋值(借鉴楼上的函数名)：Button1Click := N1Click
+
+
+
+
+from1.botton2.click()beginbotton1.click;end;
+
+
+TForm1.SpeedButton1.
+
+
+delphi 菜单项与按钮的功能绑定
+
+
+delphi 点击菜单项，会自动按下按钮的功能绑定
+
+
+ exec="Select  a.kh as 考号,a.sfzh as 身份证号,a.ksxm as 考生姓名,a.zygz as 职业,a.jdjb as 鉴定级别, 
+
+
+b.zsh as 证书号,b.bmdw as 报名单位,b.kspc as 考试批次, b.bzrq as 颁证日期 From  T_yhks_tmp a,T_yhlszs b   Where a.sfzh = b.sfzh   And  a.zygz = b.zygz    And a.jdjb = b.jdjb"
+ exec=exec&" order by kh asc"
+ Set rs=Server.Createobject("adodb.recordset")
+ rs.Open exec,Conn,1,1
+ if not rs.eof or not rs.bof then 
+ i=1  
+%>
+
+
+Select  a.kh,a.sfzh,a.ksxm,a.zygz,a.jdjb, b.zsh,b.bmdw,b.kspc, b.bzrq From  T_yhks_tmp a,T_yhlszs b   Where a.sfzh = b.sfzh   And  a.zygz = b.zygz   And a.jdjb = b.jdjb ORDER BY kh
+
+SELECT * FROM T_yhks_tmp INNER JOIN T_yhlszs ON T_yhks_tmp.sfzh = T_yhlszs.sfzh AND T_yhks_tmp.zygz = T_yhlszs.zygz AND T_yhks_tmp.jdjb = T_yhlszs.jdjb  ORDER BY kh
+
+
+-----------------------
+
+两表联查
+
+'申报鉴定名单临时表T_yhks表与证书表T_yhlszs两表联查，以下是查询身份证号、职业、鉴定级别与T_yhlszs表相同（重复）的记录
+ exec="Select  a.kh as 考号,a.sfzh as 身份证号,a.ksxm as 考生姓名,a.zygz as 职业,a.jdjb as 鉴定级别, b.zsh as 证书号,b.bmdw as 报名单位,b.kspc as 考试批次, b.bzrq as 颁证日期 From  T_yhks_tmp a,T_yhlszs b   Where a.sfzh = b.sfzh   And  a.zygz = b.zygz    And a.jdjb = b.jdjb   order by kh asc
+
+
+Select  a.kh,a.sfzh,a.ksxm,a.zygz,a.jdjb, b.zsh,b.bmdw,b.kspc, b.bzrq From  T_yhks_tmp a,T_yhlszs b   Where a.sfzh = b.sfzh   And  a.zygz = b.zygz   And a.jdjb = b.jdjb 
+
+=====================
+jdjb='专项' jdjb='5' 
+
+T_yhlszs_zxnl
+
+update T_yhlszs_zxnl Set jdjb='5' Where  jdjb='专项';  /*历史专项能力数据表中等级=专项改为5*/
+
+
+
